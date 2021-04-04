@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css --watch"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicatdursunlu/natours.git"
+  },
+  "author": "Nijat Dursunlu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicatdursunlu/natours/issues"
+  },
+  "homepage": "https://github.com/nicatdursunlu/natours#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
